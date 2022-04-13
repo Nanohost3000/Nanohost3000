@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nanohost3000
-- 👀 I’m interested in blockchain dev
-- 🌱 I’m currently learning fullstack eth dev
+- 👀 I’m interested in blockchain development
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on smart contracts/crypto projects
 - 📫 How to reach me: marianorazer@gmail.com
 
